@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Contrax;
+    src: url(./assets/fonts/conthrax-sb.ttf);
+}
+@font-face {
+    font-family: Barlow;
+    src: url(./assets/fonts/barlow.otf);
+}
+
+.font-contrax{
+    font-family: Contrax;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    font-size: 150%;
+}
+.font-barlow{
+    font-family: Barlow;
+    font-weight: 300;
+}
